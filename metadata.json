@@ -1,0 +1,6 @@
+{
+  "name": "ICAO Aviation English",
+  "description": "Pass your ICAO Language Proficiency Test with confidence. Learn directly from an ICAO Examiner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
